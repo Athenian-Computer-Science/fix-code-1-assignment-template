@@ -1,25 +1,17 @@
-# Master CT Assignment Template 
-
-Use this master template to create CT Assignment Templates.
+# Fix the code #1
 
 ## Problem Description
-Problem description goes here. 
+This is a simple calculator that computes multiples of 3. The user enters a number and the calculator returns three times that number.
 
-* Steps to take go here. 
+Unfortunately, there is an issue with the code. Run it and see what happens. Does it run? If so, is the answer what you expect? 
 
-## Example
+## Example (what *should* happen)
 ```
-Value to increment? 5
-10
+Value entered: 5
+15
 ```
-
-## Suggested Approach
-1) Suggestions go here
 
 ## Hints
-* Use the section under `if __name__ == '__main__': ` to change arguments and check your work.
-* When you are happy with your code, use `input()` to prompt the user for a value.
-* Add code to [my_code.py](./my_code.py) to make it do the desired thing.
 * Run your code with: `python my_code.py` or the run button
 * Run your tests with: `pytest`
 
